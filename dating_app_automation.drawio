@@ -1,9 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T15:40:23.136Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.3.1" etag="0OraCyxvem2907gCxRe6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-30T15:44:07.439Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="DiG3DvoEk6xBEdDQFgXb" version="24.3.1" type="github">
   <diagram name="Page-1" id="BuAaTBRfFk0ULipQXuxl">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aJDgzIl4dlksGv_rvpXn-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aJDgzIl4dlksGv_rvpXn-1" target="aJDgzIl4dlksGv_rvpXn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aJDgzIl4dlksGv_rvpXn-1" value="Take input about the kind of date you want to find" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aJDgzIl4dlksGv_rvpXn-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aJDgzIl4dlksGv_rvpXn-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aJDgzIl4dlksGv_rvpXn-2" value="Auto filter according to the criteria given in the input&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aJDgzIl4dlksGv_rvpXn-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aJDgzIl4dlksGv_rvpXn-6" target="aJDgzIl4dlksGv_rvpXn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aJDgzIl4dlksGv_rvpXn-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aJDgzIl4dlksGv_rvpXn-6" target="aJDgzIl4dlksGv_rvpXn-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aJDgzIl4dlksGv_rvpXn-6" value="if contion fullfill&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="700" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aJDgzIl4dlksGv_rvpXn-7" value="Right swipe and put it in link in excel&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aJDgzIl4dlksGv_rvpXn-9" value="Left swipe&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aJDgzIl4dlksGv_rvpXn-11" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aJDgzIl4dlksGv_rvpXn-12" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="810" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
